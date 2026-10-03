@@ -1,0 +1,506 @@
+[
+ {
+  "file": "dec/JPN/SBTTL_MV01.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "습   래"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV02.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "변   형"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV03.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "거   인"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV04.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "색   적"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV05.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "적   선"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV06.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "군   신"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV07.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "유   적"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_MV08.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "사랑・기억하고 있습니까"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TU00.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "트레이닝 데이"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV01.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "부비 트랩"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV02.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "스페이스 폴드"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV03.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "트랜스포메이션"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV04.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "다이달로스 어택"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV05.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "바이바이 마스"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV06.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "미스 마크로스"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV07.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "블라인드 게임"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV08.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "빅 이스케이프"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV09.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "파인 샐러드"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV10.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "버스트 포인트"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV11.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "드롭 아웃"
+   }
+  ]
+ },
+ {
+  "file": "dec/JPN/SBTTL_TV12.BIN",
+  "off": "0",
+  "defaults": {
+   "font": "h",
+   "align": "c",
+   "size": 38,
+   "bg": 1,
+   "stroke": 2,
+   "stroke_idx": 6,
+   "color_idx": 15
+  },
+  "items": [
+   {
+    "box": [
+     4,
+     3,
+     508,
+     58
+    ],
+    "t": "사랑은 흐른다"
+   }
+  ]
+ }
+]
