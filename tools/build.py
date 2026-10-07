@@ -26,7 +26,7 @@ def build_bootdat(tr,bad):
         ko=KO.get(it['id'])
         if ko is None: continue
         voiced=ti in (1,3) and len(it['pre'])>=6 and it['pre'][3:6].isdigit()
-        W=270 if voiced else {0:480,1:480,2:480,3:480,4:520}.get(ti)
+        W=262 if voiced else {0:470,1:470,2:470,3:470,4:510}.get(ti)   # game wraps a line that reaches the full width, so stay below it
         if W: ko=textenc.wrap(ko,W)
         pre=it['pre']
         if voiced and pre[2]=='0': pre=pre[:2]+'1'+pre[3:]   # enable subtitle window for voiced radio lines

@@ -1,10 +1,10 @@
 # 초시공요새 마크로스 (PS2) 한글패치
 
-PS2 일본판 **超時空要塞マクロス (SLPM-65405)** 용 비공식 한국어 패치입니다. 브리핑·튜토리얼·스토리 서문·메뉴·시스템 메시지와 글자 그림을 한국어로 바꾸고, 원래 글자가 나오지 않던 **미션 중 무선 음성에 한국어 자막**이 나오게 했습니다. 현재 배포판은 **v1.0 (2026-10-03)** 입니다.
+PS2 일본판 **超時空要塞マクロス (SLPM-65405)** 용 비공식 한국어 패치입니다. 브리핑·튜토리얼·스토리 서문·메뉴·시스템 메시지와 글자 그림을 한국어로 바꾸고, 원래 글자가 나오지 않던 **미션 중 무선 음성에 한국어 자막**이 나오게 했습니다. 현재 배포판은 **v1.0.1 (2026-10-07)** 입니다.
 
 [패치 다운로드](https://github.com/snake759494/macross-ps2-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
-릴리즈 첨부 파일은 **Macross_PS2_KO_v1.0.xdelta 하나**입니다. 저장소에는 제작 소스·번역·검증 자료만 공개합니다. 원본 및 완성 디스크 이미지, 추출한 게임 파일, 글꼴 파일, 외부 실행 파일, 일본어 원문은 포함하지 않습니다. GitHub 가 자동 생성하는 Source code ZIP/TAR 는 저장소 소스의 압축본이며 게임 파일이 아닙니다.
+릴리즈 첨부 파일은 **Macross_PS2_KO_v1.0.1.xdelta 하나**입니다. 저장소에는 제작 소스·번역·검증 자료만 공개합니다. 원본 및 완성 디스크 이미지, 추출한 게임 파일, 글꼴 파일, 외부 실행 파일, 일본어 원문은 포함하지 않습니다. GitHub 가 자동 생성하는 Source code ZIP/TAR 는 저장소 소스의 압축본이며 게임 파일이 아닙니다.
 
 > ⚠️ `translation/strings_ko.json` 에는 게임 대사 번역 전문이 들어 있어 **줄거리 스포일러**가 포함됩니다.
 
@@ -19,10 +19,10 @@ PS2 일본판 **超時空要塞マクロス (SLPM-65405)** 용 비공식 한국�
 | 원본 ISO 크기 | 1,230,897,152 바이트 |
 | **원본 ISO MD5** | `026bd41c9f3b0d55346ad634251eed51` |
 | 원본 ISO SHA-256 | `221e4137cc1b197b262c58604143d92d2fdb3dd82d6b464870c6bbf1c68a27df` |
-| xdelta 파일 크기 | 5,245,973 바이트 |
-| xdelta SHA-256 | `69b8dce8f609739d8fd43eb690428da7334fa13ecddc86bf74fa2a1fb175e1cb` |
+| xdelta 파일 크기 | 5,243,219 바이트 |
+| xdelta SHA-256 | `ce0efc7e59744a90f74e5aa86813a653b29dc1aa2e21a8f8b17aa3cd15231c20` |
 | 적용 결과 ISO 크기 | 1,230,897,152 바이트 (원본과 같음) |
-| 적용 결과 ISO SHA-256 | `9fb30aa198a536bfca496e9f5addf39a3748523ec86d4b2de97fe616eb62cadb` |
+| 적용 결과 ISO SHA-256 | `a82892947eb4a7d8d1ade30ecc4b06262940459da6f4e1517676f0df0fa1a4db` |
 
 ## 패치 적용 방법
 
@@ -36,7 +36,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Chou Jikuu Yousai Macross (Japan).is
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `Macross_PS2_KO_v1.0.xdelta` 를 받습니다.
+1. 릴리즈에서 `Macross_PS2_KO_v1.0.1.xdelta` 를 받습니다.
 2. xdelta3 패치를 지원하는 도구의 **Apply Patch** 기능을 엽니다.
 3. **Patch** 에 xdelta 파일, **Source File** 에 해시가 일치하는 원본 `.iso` 를 선택합니다.
 4. **Output File** 에 새 파일명(예: `Chou Jikuu Yousai Macross (Japan) (Korean).iso`)을 지정합니다.
@@ -46,7 +46,7 @@ xdelta 는 호환성을 위해 2차 압축과 파일 경로 헤더 없이 만들
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\Chou Jikuu Yousai Macross (Japan).iso' '.\Macross_PS2_KO_v1.0.xdelta' '.\Chou Jikuu Yousai Macross (Japan) (Korean).iso'
+.\xdelta3.exe -d -s '.\Chou Jikuu Yousai Macross (Japan).iso' '.\Macross_PS2_KO_v1.0.1.xdelta' '.\Chou Jikuu Yousai Macross (Japan) (Korean).iso'
 ```
 
 ## 한글화 범위

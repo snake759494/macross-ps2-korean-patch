@@ -1,5 +1,10 @@
-{"version":"v1.0","asset":"Macross_PS2_KO_v1.0.xdelta","asset_size":5245973,
- "asset_sha256":"69b8dce8f609739d8fd43eb690428da7334fa13ecddc86bf74fa2a1fb175e1cb",
- "source_iso_size":1230897152,"source_iso_md5":"026bd41c9f3b0d55346ad634251eed51",
- "source_iso_sha256":"221e4137cc1b197b262c58604143d92d2fdb3dd82d6b464870c6bbf1c68a27df",
- "result_iso_sha256":"9fb30aa198a536bfca496e9f5addf39a3748523ec86d4b2de97fe616eb62cadb"}
+{
+ "version": "v1.0.1",
+ "asset": "Macross_PS2_KO_v1.0.1.xdelta",
+ "asset_size": 5243219,
+ "asset_sha256": "ce0efc7e59744a90f74e5aa86813a653b29dc1aa2e21a8f8b17aa3cd15231c20",
+ "source_iso_size": 1230897152,
+ "source_iso_md5": "026bd41c9f3b0d55346ad634251eed51",
+ "source_iso_sha256": "221e4137cc1b197b262c58604143d92d2fdb3dd82d6b464870c6bbf1c68a27df",
+ "result_iso_sha256": "a82892947eb4a7d8d1ade30ecc4b06262940459da6f4e1517676f0df0fa1a4db"
+}
